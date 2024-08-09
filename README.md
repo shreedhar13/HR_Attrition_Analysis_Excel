@@ -18,10 +18,10 @@
 # DAX For Involuntary Count  (Count Of Active Employee Per Month)
 ![ss3](https://github.com/user-attachments/assets/c2fd4602-ee66-48d9-b4fd-580ad577acb2)
 
-# DAX For Voluntary Attrition %  (Count Of Active Employee Per Month)
+# DAX For Total Head Count  (Count Of Active Employee Per Month)
 ![ss4](https://github.com/user-attachments/assets/c3626ebb-9cd6-47cc-9f37-30a90bc36acb)
 
-# DAX For Total Head Count  (Count Of Active Employee Per Month)
+# DAX For Voluntary Attrition %  (Count Of Active Employee Per Month)
 ![ss5](https://github.com/user-attachments/assets/c1f1e2ce-c5af-4055-bda0-1cfa57de4295)
 
 # DAX For InVoluntary Attrition %  (Count Of Active Employee Per Month)
